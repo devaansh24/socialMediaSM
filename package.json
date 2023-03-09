@@ -6,6 +6,8 @@
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@iconscout/react-unicons": "^2.0.0",
+    "@mantine/core": "^6.0.1",
+    "@mantine/form": "^6.0.1",
     "@mui/icons-material": "^5.11.11",
     "@mui/material": "^5.11.11",
     "@testing-library/jest-dom": "^5.16.5",
